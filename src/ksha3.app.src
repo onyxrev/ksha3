@@ -1,7 +1,7 @@
 {application, ksha3,
  [
   {description, "Keccak (SHA-3) hash function NIF"},
-  {vsn, "1.0.0"},
+  {vsn, "1.0.1"},
   {modules, [
              ksha3
             ]},
